@@ -10,7 +10,7 @@ Among the models employed are decision trees, support vector machines, and ensem
 Through this research, the project underscores the potential of machine learning to revolutionize the field of cybersecurity, providing robust tools for the early detection and mitigation of security threats. 
 
 # Contribute
-Feel free to contribute positively to out code 
+Feel free to contribute positively to our code 
 
  # Resources
 If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
